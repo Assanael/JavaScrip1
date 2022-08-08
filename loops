@@ -1,0 +1,14 @@
+<script type="text/javascript">
+	
+	for (var i = 0; i< 15 ; i++ ){
+		document.write("Я тебя выучу!!! <br/>");
+	}
+	//var i = 0;
+	while( i < 5){
+		document.write("Я тебя выучу!!! <br/>");
+		i ++ ; //= i + 1;
+
+	}
+
+
+</script>
