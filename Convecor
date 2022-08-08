@@ -1,0 +1,14 @@
+<meta  charset="utf-8">
+<script type="text/javascript">
+
+var haw = prompt("Сколько рублей вы хотите сконвертировать?");
+haw = parseInt (haw);
+var d = 60;
+var e = 61;
+var sum1 = haw / d;
+var sum2 = haw / e;
+alert("Долларов получится " +sum1 );
+alert ("Евро получите " +sum2 );
+
+
+</script>
