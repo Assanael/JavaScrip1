@@ -1,0 +1,16 @@
+<meta charset="utf-8">
+<script type="text/javascript">
+	
+var a = +prompt("Введит число");
+var b = +prompt("Введит число");
+if (a > b){
+	var max = a;
+} else if( a==b){
+	alert("Числа равны");
+	max = a;
+} else {
+	max = b;
+}
+alert(max);
+
+</script>
